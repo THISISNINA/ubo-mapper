@@ -2,6 +2,8 @@
 
 Ownership chart and UBO check. Download as PNG or PDF.
 
+**Live:** https://thisisnina.github.io/ubo-mapper
+
 - Each row is one link: a person or entity, the company/foundation, and the type:
   shares %, votes %, founder/settlor, trustee/council, protector, beneficiary,
   owner via nominee, other control (veto rights, appointing the board), senior manager,
